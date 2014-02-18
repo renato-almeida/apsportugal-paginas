@@ -44,7 +44,7 @@
 
  
 
-<center><img src="https://photos-4.dropbox.com/t/0/AADaqbqNeKQenW3CFV49WL6WNCMOoQRVOe0qhq663q1mhQ/12/2090787/jpeg/1024x768/3/1392692400/0/2/Parceiros.jpg/im-qKcpI4YrLtDQRcQUtP7yxVdEkocc6EnOOtUqWSCQ" border="0" alt=" photo parcerias_2_resized.jpg"/></center>
+<center><img src="https://photos-4.dropbox.com/t/0/AADaqbqNeKQenW3CFV49WL6WNCMOoQRVOe0qhq663q1mhQ/12/2090787/jpeg/1024x768/3/1392692400/0/2/Parceiros.jpg/im-qKcpI4YrLtDQRcQUtP7yxVdEkocc6EnOOtUqWSCQ" width="100%" border="0" alt=" photo parcerias_2_resized.jpg"/></center>
 
 <br>
     Conhece aqui todos os nossos parceiros
