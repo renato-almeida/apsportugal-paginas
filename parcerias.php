@@ -111,7 +111,7 @@
 -<a href="http://tvdependente.net/" target="_blank">BLOG: TVDependente</a><br>
 <br>
 Também queres ser nosso parceiro?<br>
-Envia-nos um mail para: series.paginasportuguesas@gmail.com OU contacta por mensagem a nossa página<br><br>
+Envia-nos um mail para: <a href="mailto:series.paginasportuguesas@gmail.com">series.paginasportuguesas@gmail.com</a> OU contacta por mensagem a nossa página<br><br>
 
   </body>
 </html>
