@@ -35,10 +35,6 @@
   </head>
   <body>
 
-    
-
-<!-- ******** copiar a partir daqui  ********** -->
-
 
 <center>
   <div class="ss-form-heading"><h1 class="ss-form-title" dir="ltr" ><center>As nossas páginas</center></h1>
@@ -225,9 +221,6 @@
 
   <iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FNiikita.Portugal%2F&amp;width=292&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:80px;" allowTransparency="true"></iframe>
 </p>
-    
-
-<!-- ******** até aqui  ********** -->
 
   </body>
 </html>
