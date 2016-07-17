@@ -44,13 +44,13 @@
 <p> Já conheces todas as nossas páginas? Fica então a conhecê-las! Faz já o teu "gosto/like"</p>
 
 
-    <center><a href="http://s129.photobucket.com/user/Cath_Cuddy/media/ImagemseacuteriesadecorrerbyAngelina.jpg.html" target="_blank" height="640" width="452"><img src="http://i129.photobucket.com/albums/p235/Cath_Cuddy/ImagemseacuteriesadecorrerbyAngelina.jpg" border="0" alt=" photo ImagemseacuteriesadecorrerbyAngelina.jpg"/></a></center>
+    <center><img src="http://i129.photobucket.com/albums/p235/Cath_Cuddy/ImagemseacuteriesadecorrerbyAngelina.jpg" border="0" alt=" photo ImagemseacuteriesadecorrerbyAngelina.jpg"/></center>
 
 <div align="center">
  
 <p>
 
-<iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FThe.Walking.Dead.Portugal%2F&amp;width=292&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:80px;" allowTransparency="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FPT.TheWalkingDead%2F&amp;width=292&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:80px;" allowTransparency="true"></iframe>
 
 
   <iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FGame.O.Thrones.Portugal%2F&amp;width=292&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:80px;" allowTransparency="true"></iframe>
@@ -119,7 +119,7 @@
 <p>
 <iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FPerson.of.Interest.1Portugal%2F&amp;width=292&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:80px;" allowTransparency="true"></iframe>
 
-  <iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FNew.Girl.Portugal%2F&amp;width=292&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:80px;" allowTransparency="true"></iframe>
+  <iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FAPS.Vikings.Portugal%2F&amp;width=292&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:80px;" allowTransparency="true"></iframe>
 
 <iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FPLittleLiars.Portugal%2F&amp;width=292&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:80px;" allowTransparency="true"></iframe>
 </p>
@@ -134,12 +134,6 @@
   
 
 </p>
-
-<p>  
-
-  <iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FAPS.Vikings.Portugal%2F&amp;width=292&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:80px;" allowTransparency="true"></iframe>
-  
-</p>    
 
 </div>
 
