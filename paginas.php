@@ -44,7 +44,7 @@
 <p> Já conheces todas as nossas páginas? Fica então a conhecê-las! Faz já o teu "gosto/like"</p>
 
 
-    <center><img src="http://i129.photobucket.com/albums/p235/Cath_Cuddy/ImagemseacuteriesadecorrerbyAngelina.jpg" border="0" alt=" photo ImagemseacuteriesadecorrerbyAngelina.jpg"/></center>
+    <center><img src="http://i.imgur.com/YbPjnbi.png" border="0" alt="Portal das Séries - As nossas páginas"/></center>
 
 <div align="center">
  
